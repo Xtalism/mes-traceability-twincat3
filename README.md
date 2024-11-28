@@ -10,6 +10,7 @@ I created this resource to share what I’ve learned, providing others with the 
   - [Table of Contents](#table-of-contents)
   - [Why This Repository?](#why-this-repository)
   - [Challenges in the PLC Community](#challenges-in-the-plc-community)
+  - [Resources](#resources)
 
 ---
 
@@ -34,3 +35,8 @@ repository aims to fill that gap by:
 
 3. **Limited Community Documentation**  
    Unlike the software development community, where shared knowledge often evolves into unofficial documentation, the automation field lacks accessible resources for newcomers.
+
+## Resources
+
+There are many resources out there in different platforms, what I like the most was [Kajob Sagatowski's](https://www.youtube.com/@JakobSagatowski) TwinCAT 3 video series and he's [AllTwinCAT](https://alltwincat.com/twincat-3-tutorial/) 
+website. Feel free to explore more!
