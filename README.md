@@ -1,17 +1,36 @@
-# twincatTraceability
-HTTP requests template for treaceability and IoT applications using Twincat 3 and structured text.
+# TwinCAT 3 Traceability and IoT HTTP Requests
 
-I'm a Twincat 3 beginner myself, when I started programming I realized that the documentation provided by Beckhoff isn't enough,
-don't get me wrong, Beckhoff's documentation is really good, you're going to find everything you need there, the problem I
-have is that Twincat's forums are not as helpful as StackOverflow is when it comes in terms of Software Developing.
+This repository contains a template and examples for handling HTTP requests in **TwinCAT 3**, specifically designed for **traceability** and **IoT applications**. As a beginner in TwinCAT 3, 
+I created this resource to share what I’ve learned, providing others with the kind of help I wish I had when I started.
 
-Software developers share their code and problems so other developers sharing the same problem in the future can figure out their problem
-creating a "community documentation" where you can solve your problem using code from others, taking their code and improving
-it, and so on. Such thing doesn't happen in the PLC community where they think code shouldn't be shared because "it's going to be stolen"
-or because you just don't know how to code. A lot of talented coders see another code to improve their code or just to understand the 
-thing they're dealing with.
+---
 
-Another harsh part about PLC or Automatization community is that, they don´t tend to use repositories, at least here in the American Continent, they make Back-Ups in their cloud services or saving their programs in their Hard Drives. Their version control is outrageous.
+## Table of Contents
+- [TwinCAT 3 Traceability and IoT HTTP Requests](#twincat-3-traceability-and-iot-http-requests)
+  - [Table of Contents](#table-of-contents)
+  - [Why This Repository?](#why-this-repository)
+  - [Challenges in the PLC Community](#challenges-in-the-plc-community)
 
-I'll try to do this as understandable as possible, and I´m not an expert in this. I'm a Mechatronics engineer but I'm specialized in the Software
-Branch of it, I'm more related to Software Engineering than Automatization, if that makes any sense.
+---
+
+## Why This Repository?
+
+While Beckhoff provides excellent documentation for TwinCAT 3, it often lacks the kind of community-driven support that developers are accustomed to in broader software engineering fields. This 
+repository aims to fill that gap by:
+
+- Offering a reusable HTTP request template for traceability and IoT applications.
+- Encouraging collaboration and code sharing within the PLC community.
+- Promoting best practices, such as using version control and community documentation.
+
+---
+
+## Challenges in the PLC Community
+
+1. **Lack of Code Sharing**  
+   In the PLC world, sharing code is often discouraged due to concerns over intellectual property. This limits collaboration and innovation. In contrast, software developers rely on shared examples to learn and improve.
+
+2. **Outdated Version Control Practices**  
+   Many automation professionals still rely on cloud backups or local storage instead of modern version control systems like Git. This repository serves as an example of how version control can benefit PLC programming.
+
+3. **Limited Community Documentation**  
+   Unlike the software development community, where shared knowledge often evolves into unofficial documentation, the automation field lacks accessible resources for newcomers.
