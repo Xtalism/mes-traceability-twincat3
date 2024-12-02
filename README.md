@@ -38,5 +38,5 @@ repository aims to fill that gap by:
 
 ## Resources
 
-There are many resources out there in different platforms, what I like the most was [Kajob Sagatowski's](https://www.youtube.com/@JakobSagatowski) TwinCAT 3 video series and he's [AllTwinCAT](https://alltwincat.com/twincat-3-tutorial/) 
+There are many resources out there in different platforms, what I like the most was [Kajob Sagatowski's](https://www.youtube.com/@JakobSagatowski) TwinCAT 3 video series and his [AllTwinCAT](https://alltwincat.com/twincat-3-tutorial/) 
 website. Feel free to explore more!
