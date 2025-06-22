@@ -10,6 +10,7 @@ I created this resource to share what I’ve learned, providing others with the 
   - [Table of Contents](#table-of-contents)
   - [Why This Repository?](#why-this-repository)
   - [Challenges in the PLC Community](#challenges-in-the-plc-community)
+- [Getting Started](#getting-started)
   - [Resources](#resources)
 
 ---
@@ -35,6 +36,15 @@ repository aims to fill that gap by:
 
 3. **Limited Community Documentation**  
    Unlike the software development community, where shared knowledge often evolves into unofficial documentation, the automation field lacks accessible resources for newcomers.
+
+# Getting Started
+
+The main libraries I used during the implementation of the MES system  are:
+
+- [Tc2_Utilities](https://infosys.beckhoff.com/english.php?content=../content/1033/tcplclib_tc2_utilities/index.html&id=)
+- [Tc3_JsonXml](https://infosys.beckhoff.com/english.php?content=../content/1033/tcplclib_tc3_jsonxml/index.html&id=)
+- [Tc3_IotBase](https://infosys.beckhoff.com/english.php?content=../content/1033/tf6701_tc3_iot_communication_mqtt/4221526923.html&id=)
+- [Tc2_Database](https://infosys.beckhoff.com/english.php?content=../content/1033/tf6420_tc3_database_server/108004491.html&id=)
 
 ## Resources
 
